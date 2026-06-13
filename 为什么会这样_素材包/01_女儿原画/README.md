@@ -1,12 +1,14 @@
-# 01_女儿原画
+# 01_基底参考图(AI 文生图生成)
 
-放女儿原始画作（参考图原图）。建议至少这几类：
+> 本项目**不使用原画**,这 6 张基底参考图全部由 TapNow 文生图生成。
+> Prompt 见 [`03_场景设定/基底参考图_文生图Prompts.md`](../03_场景设定/基底参考图_文生图Prompts.md)。
+> 生成 → 挑定妆/定场底图 → 存到这里,后续所有镜头引用它们。
 
-| 文件名 | 用途 |
-|---|---|
-| `ref_fluffy_ball.png` | 小毛球，镜头 1–9 统一主角 |
-| `ref_girl_white_yellow.png` | 白衣黄裙小女孩，镜头 9–12 |
-| `ref_classroom.png` | 教室，镜头 2、3、10 |
-| `ref_home_window.png` | 家中窗前，镜头 12 |
-| `ref_girl_pet.png` | 女孩和小动物，镜头 11、12 |
-| `ref_clock_paper_rain.png` | 手绘时钟/雨滴/纸飞机（时间异常符号） |
+| 文件名 | 内容 | 用途 |
+|---|---|---|
+| `ref_fluffy_ball.png` | 小毛球 | 镜头 1–9 主角 |
+| `ref_girl.png` | 白衣黄裙小女孩 | 镜头 9–12 |
+| `ref_classroom.png` | 教室 | 镜头 2、3、10 |
+| `ref_home_window.png` | 家中窗前 | 镜头 12 |
+| `ref_girl_pet.png` | 女孩 + 小毛球同框 | 镜头 11、12 |
+| `ref_symbols.png` | 时钟/雨滴/纸飞机/水花/火花 | 时间异常符号 |
