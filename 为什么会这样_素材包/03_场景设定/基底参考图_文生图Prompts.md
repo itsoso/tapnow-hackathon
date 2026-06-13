@@ -51,6 +51,35 @@ A childlike hand-drawn element sheet on a simple plain background: small round c
 
 ---
 
+## 主场景底图(已在 TapNow 生成,文生图)
+
+### 卧室(镜头 1)
+```
+A small simple childlike bedroom, a little bed, a bedside table with a round alarm clock, a window with soft morning light, warm and cozy, empty of people, plenty of negative space, childlike hand-drawn illustration, inspired by a young child's drawing, crayon texture, soft watercolor colors, imperfect hand-drawn lines, 2D illustration, no brand logos, no text
+```
+
+### 便利店内部(镜头 4、7)
+```
+A small cozy childlike convenience store interior at dusk, shelves with bread, drinks, umbrellas and candy, a checkout counter with a small electronic clock, warm lights, a little magical glow in the corner, empty of people, plenty of negative space, childlike hand-drawn illustration, inspired by a young child's drawing, crayon texture, soft watercolor colors, imperfect hand-drawn lines, 2D illustration, no brand logos
+```
+
+### 城市街道 · 红绿灯/公交站(镜头 2、5)
+```
+A simple childlike modern city street in the morning, a traffic light, a bus stop with a small electronic sign, low buildings, a sidewalk, a few clouds, ordinary and calm, empty of people, plenty of negative space, childlike hand-drawn illustration, inspired by a young child's drawing, crayon texture, soft watercolor colors, imperfect hand-drawn lines, 2D illustration, no brand logos, no text
+```
+
+### 雨后水坑(镜头 11)
+```
+A simple childlike city street after rain, wet pavement with a shiny puddle reflecting the sky, soft grey clouds clearing, a few sparkling raindrops, calm and fresh, empty of people, plenty of negative space, childlike hand-drawn illustration, inspired by a young child's drawing, crayon texture, soft watercolor colors, imperfect hand-drawn lines, 2D illustration, no brand logos
+```
+
+### 夕阳路(镜头 12)
+```
+A quiet childlike city path at sunset, warm golden orange sky, long soft shadows, low buildings and a few trees along the road, peaceful and hopeful, empty of people, plenty of negative space, childlike hand-drawn illustration, inspired by a young child's drawing, crayon texture, soft watercolor colors, imperfect hand-drawn lines, 2D illustration, no brand logos
+```
+
+---
+
 ## 通用 Negative Prompt(每条都加)
 
 ```
