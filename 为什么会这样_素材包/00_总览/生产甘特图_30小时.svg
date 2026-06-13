@@ -1,0 +1,62 @@
+<svg width="680" height="384" viewBox="0 0 680 384" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>《为什么会这样》30 小时生产甘特图</title>
+<desc>从锁定到增强版的八个阶段时间线,标出 P0 关键路径、打磨阶段与 24 小时首个可交版里程碑。</desc>
+<style>
+  text{font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+  .ts{font-size:12px;fill:#5F5E5A}
+  .th{font-size:14px;font-weight:500;fill:#2C2C2A}
+  .c-teal{fill:#E1F5EE;stroke:#0F6E56;stroke-width:0.6}
+  .c-coral{fill:#FAECE7;stroke:#993C1D;stroke-width:0.6}
+  .c-gray{fill:#F1EFE8;stroke:#5F5E5A;stroke-width:0.6}
+  .leader{stroke:#B4B2A9;stroke-width:0.5;stroke-dasharray:3 3;fill:none}
+</style>
+<rect x="0" y="0" width="680" height="384" fill="#FFFFFF"/>
+<text class="th" x="40" y="28" style="font-size:18px">最稳路线 · 30 小时生产甘特图</text>
+<text class="ts" x="40" y="48">先有"能从头播到尾的可交版",再谈漂亮 · 画面排第 6 不排第 1</text>
+
+<circle cx="46" cy="64" r="5" class="c-coral"/>
+<text class="ts" x="56" y="68">P0 关键路径</text>
+<circle cx="160" cy="64" r="5" class="c-gray"/>
+<text class="ts" x="170" y="68">推进</text>
+<circle cx="226" cy="64" r="5" class="c-teal"/>
+<text class="ts" x="236" y="68">打磨</text>
+<line x1="300" y1="58" x2="300" y2="70" stroke="#BA7517" stroke-width="2"/>
+<text class="ts" x="308" y="68">里程碑</text>
+
+<text class="ts" x="210" y="88">0h</text>
+<text class="ts" x="298" y="88" text-anchor="middle">6h</text>
+<text class="ts" x="386" y="88" text-anchor="middle">12h</text>
+<text class="ts" x="474" y="88" text-anchor="middle">18h</text>
+<text class="ts" x="650" y="88" text-anchor="end">30h</text>
+
+<line x1="298" y1="92" x2="298" y2="358" class="leader"/>
+<line x1="386" y1="92" x2="386" y2="358" class="leader"/>
+<line x1="474" y1="92" x2="474" y2="358" class="leader"/>
+
+<line x1="562" y1="92" x2="562" y2="358" stroke="#BA7517" stroke-width="1.5"/>
+<text class="ts" x="562" y="88" text-anchor="middle" style="fill:#854F0B">24h 首个可交版</text>
+
+<text class="th" x="44" y="111">锁定 0–1h</text>
+<rect x="210" y="98" width="15" height="18" rx="3" class="c-gray"/>
+
+<text class="th" x="44" y="145">关键帧 2–4h</text>
+<rect x="239" y="132" width="30" height="18" rx="3" class="c-coral"/>
+
+<text class="th" x="44" y="179">P0 视频 4–8h</text>
+<rect x="269" y="166" width="58" height="18" rx="3" class="c-coral"/>
+
+<text class="th" x="44" y="213">补齐镜头 8–12h</text>
+<rect x="327" y="200" width="59" height="18" rx="3" class="c-gray"/>
+
+<text class="th" x="44" y="247">粗剪 12–16h</text>
+<rect x="386" y="234" width="59" height="18" rx="3" class="c-gray"/>
+
+<text class="th" x="44" y="281">旁白声音 16–20h</text>
+<rect x="445" y="268" width="58" height="18" rx="3" class="c-teal"/>
+
+<text class="th" x="44" y="315">精修 20–24h</text>
+<rect x="503" y="302" width="59" height="18" rx="3" class="c-teal"/>
+
+<text class="th" x="44" y="349">增强版 24–30h</text>
+<rect x="562" y="336" width="88" height="18" rx="3" class="c-teal"/>
+</svg>

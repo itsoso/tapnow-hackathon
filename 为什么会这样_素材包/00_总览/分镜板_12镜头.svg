@@ -1,0 +1,122 @@
+<svg width="680" height="596" viewBox="0 0 680 596" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>《为什么会这样》12 镜头分镜板</title>
+<desc>十二个镜头的分镜卡片,标注时长、关键动作、生成方式、难度,并标出五个 P0 关键帧。</desc>
+<style>
+  text{font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+  .t{font-size:14px;fill:#2C2C2A}
+  .ts{font-size:12px;fill:#5F5E5A}
+  .th{font-size:14px;font-weight:500;fill:#2C2C2A}
+  .box{fill:#FFFFFF;stroke:#D3D1C7;stroke-width:0.6}
+  .c-teal{fill:#E1F5EE;stroke:#0F6E56;stroke-width:0.6}
+  .c-amber{fill:#FAEEDA;stroke:#854F0B;stroke-width:0.6}
+  .c-coral{fill:#FAECE7;stroke:#993C1D;stroke-width:0.6}
+  .c-purple{fill:#EEEDFE;stroke:#3C3489;stroke-width:0.6}
+</style>
+<rect x="0" y="0" width="680" height="596" fill="#FFFFFF"/>
+<text class="th" x="40" y="28" style="font-size:18px">《为什么会这样》· 12 镜头分镜板</text>
+<text class="ts" x="40" y="48">总时长 2'45"–3'15" · 每条先做 5–8s · 先做静态关键帧再生视频</text>
+
+<circle cx="46" cy="66" r="5" class="c-teal"/>
+<text class="ts" x="56" y="70">低</text>
+<circle cx="96" cy="66" r="5" class="c-amber"/>
+<text class="ts" x="106" y="70">中</text>
+<circle cx="146" cy="66" r="5" class="c-coral"/>
+<text class="ts" x="156" y="70">高</text>
+<rect x="206" y="58" width="34" height="17" rx="8.5" class="c-purple"/>
+<text class="ts" x="223" y="70" text-anchor="middle">P0</text>
+<text class="ts" x="250" y="70">= 关键帧优先(5 张成则片子成立)</text>
+
+<rect class="box" x="40" y="84" width="186" height="112" rx="8"/>
+<text class="th" x="54" y="110">镜头 1 · 10s</text>
+<text class="t" x="54" y="138">闹钟跳·滚下床</text>
+<text class="ts" x="54" y="160">单图生视频</text>
+<rect x="54" y="170" width="34" height="18" rx="9" class="c-teal"/>
+<text class="ts" x="71" y="183" text-anchor="middle">低</text>
+
+<rect class="box" x="242" y="84" width="186" height="112" rx="8"/>
+<text class="th" x="256" y="110">镜头 2 · 12s</text>
+<text class="t" x="256" y="138">城市时间卡顿</text>
+<text class="ts" x="256" y="160">单图 / 多图参考</text>
+<rect x="256" y="170" width="34" height="18" rx="9" class="c-amber"/>
+<text class="ts" x="273" y="183" text-anchor="middle">中</text>
+
+<rect class="box" x="444" y="84" width="186" height="112" rx="8"/>
+<text class="th" x="458" y="110">镜头 3 · 12s</text>
+<text class="t" x="458" y="138">0分·角落哭</text>
+<text class="ts" x="458" y="160">单图生视频</text>
+<rect x="458" y="170" width="34" height="18" rx="9" class="c-teal"/>
+<text class="ts" x="475" y="183" text-anchor="middle">低</text>
+
+<rect class="box" x="40" y="210" width="186" height="112" rx="8"/>
+<text class="th" x="54" y="236">镜头 4 · 15s</text>
+<text class="t" x="54" y="264">时间豆售卖机</text>
+<text class="ts" x="54" y="286">单图生视频</text>
+<rect x="54" y="296" width="34" height="18" rx="9" class="c-amber"/>
+<text class="ts" x="71" y="309" text-anchor="middle">中</text>
+<rect x="176" y="296" width="36" height="18" rx="9" class="c-purple"/>
+<text class="ts" x="194" y="309" text-anchor="middle">P0</text>
+
+<rect class="box" x="242" y="210" width="186" height="112" rx="8"/>
+<text class="th" x="256" y="236">镜头 5 · 18s</text>
+<text class="t" x="256" y="264">坏事被跳过</text>
+<text class="ts" x="256" y="286">多段蒙太奇 5A–D</text>
+<rect x="256" y="296" width="34" height="18" rx="9" class="c-coral"/>
+<text class="ts" x="273" y="309" text-anchor="middle">高</text>
+<rect x="378" y="296" width="36" height="18" rx="9" class="c-purple"/>
+<text class="ts" x="396" y="309" text-anchor="middle">P0</text>
+
+<rect class="box" x="444" y="210" width="186" height="112" rx="8"/>
+<text class="th" x="458" y="236">镜头 6 · 15s</text>
+<text class="t" x="458" y="264">好运的代价</text>
+<text class="ts" x="458" y="286">单图生视频</text>
+<rect x="458" y="296" width="34" height="18" rx="9" class="c-amber"/>
+<text class="ts" x="475" y="309" text-anchor="middle">中</text>
+<rect x="580" y="296" width="36" height="18" rx="9" class="c-purple"/>
+<text class="ts" x="598" y="309" text-anchor="middle">P0</text>
+
+<rect class="box" x="40" y="336" width="186" height="112" rx="8"/>
+<text class="th" x="54" y="362">镜头 7 · 12s</text>
+<text class="t" x="54" y="390">还回时间豆</text>
+<text class="ts" x="54" y="412">单图生视频</text>
+<rect x="54" y="422" width="34" height="18" rx="9" class="c-teal"/>
+<text class="ts" x="71" y="435" text-anchor="middle">低</text>
+
+<rect class="box" x="242" y="336" width="186" height="112" rx="8"/>
+<text class="th" x="256" y="362">镜头 8 · 18s</text>
+<text class="t" x="256" y="390">时间回流·高潮</text>
+<text class="ts" x="256" y="412">单图生视频</text>
+<rect x="256" y="422" width="34" height="18" rx="9" class="c-coral"/>
+<text class="ts" x="273" y="435" text-anchor="middle">高</text>
+<rect x="378" y="422" width="36" height="18" rx="9" class="c-purple"/>
+<text class="ts" x="396" y="435" text-anchor="middle">P0</text>
+
+<rect class="box" x="444" y="336" width="186" height="112" rx="8"/>
+<text class="th" x="458" y="362">镜头 9 · 12s</text>
+<text class="t" x="458" y="390">毛球变女孩</text>
+<text class="ts" x="458" y="412">首尾帧生视频</text>
+<rect x="458" y="422" width="34" height="18" rx="9" class="c-coral"/>
+<text class="ts" x="475" y="435" text-anchor="middle">高</text>
+
+<rect class="box" x="40" y="462" width="186" height="112" rx="8"/>
+<text class="th" x="54" y="488">镜头 10 · 18s</text>
+<text class="t" x="54" y="516">0分纸飞机</text>
+<text class="ts" x="54" y="538">单图生视频</text>
+<rect x="54" y="548" width="34" height="18" rx="9" class="c-amber"/>
+<text class="ts" x="71" y="561" text-anchor="middle">中</text>
+
+<rect class="box" x="242" y="462" width="186" height="112" rx="8"/>
+<text class="th" x="256" y="488">镜头 11 · 20s</text>
+<text class="t" x="256" y="516">雨中跳舞</text>
+<text class="ts" x="256" y="538">单图 / 两段 11A·B</text>
+<rect x="256" y="548" width="34" height="18" rx="9" class="c-amber"/>
+<text class="ts" x="273" y="561" text-anchor="middle">中</text>
+<rect x="378" y="548" width="36" height="18" rx="9" class="c-purple"/>
+<text class="ts" x="396" y="561" text-anchor="middle">P0</text>
+
+<rect class="box" x="444" y="462" width="186" height="112" rx="8"/>
+<text class="th" x="458" y="488">镜头 12 · 18s</text>
+<text class="t" x="458" y="516">窗前·夕阳同行</text>
+<text class="ts" x="458" y="538">两段视频 12A·B</text>
+<rect x="458" y="548" width="34" height="18" rx="9" class="c-amber"/>
+<text class="ts" x="475" y="561" text-anchor="middle">中</text>
+</svg>
